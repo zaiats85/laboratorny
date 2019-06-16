@@ -1,0 +1,11 @@
+C:\Users\olegz\Source\Repos\Lab_1\bin\Debug\Lab_1.exe.config
+C:\Users\olegz\Source\Repos\Lab_1\bin\Debug\Lab_1.exe
+C:\Users\olegz\Source\Repos\Lab_1\bin\Debug\Lab_1.pdb
+C:\Users\olegz\Source\Repos\Lab_1\obj\Debug\Lab_1.csprojAssemblyReference.cache
+C:\Users\olegz\Source\Repos\Lab_1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\olegz\Source\Repos\Lab_1\obj\Debug\Lab_1.csproj.GenerateResource.cache
+C:\Users\olegz\Source\Repos\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\olegz\Source\Repos\Lab_1\obj\Debug\Lab_1.exe
+C:\Users\olegz\Source\Repos\Lab_1\obj\Debug\Lab_1.pdb
+C:\Users\olegz\Source\Repos\Lab_1\obj\Debug\TrigFunctions.resources
+C:\Users\olegz\Source\Repos\Lab_1\obj\Debug\Exercise.resources
